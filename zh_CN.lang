@@ -122,7 +122,7 @@ option.Volumetric_Lighting=体积光
 option.Volumetric_Lighting.comment=半成品，可能产生错误且相当消耗性能. 启用时禁用云隙光.
 
 option.Celshading=卡通渲染
-option.Celshading.comment=用黑色线对所有物体描边，使其看上去与动画片中一样，产生类似“边境之地”的效果.  §4极低性能影响.
+option.Celshading.comment=用黑色线对所有物体描边，使其看上去与动画片中一样，产生类似“无主之地”的效果.  §4极低性能影响.
 option.Celborder=卡通渲染描边厚度
 option.Celborder.comment=调节卡通渲染轮廓的厚度.
 option.Celradius=卡通渲染搜索半径
@@ -149,7 +149,7 @@ option.uwatertint=水下雾着色
 option.uwatertint.comment=启用或禁用水下雾气的蓝色调.
 
 option.Whiteworld=白色世界
-option.Whiteworld.comment=使地面变白，主要用于调试. 因为许多人要求添加该选项而加入.  我觉得这样截图时看起来挺“整洁”.
+option.Whiteworld.comment=使地面变白，主要用于调试. 因为许多人要求添加该选项而加入.  我觉得这样截图时看起来挺“帅”.
 
 #composite.vsh
 option.Moonlight=月光
